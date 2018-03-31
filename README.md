@@ -1,3 +1,4 @@
 # gitskills
 git dev£¨new branch£©
-git master
+git feature1
+
